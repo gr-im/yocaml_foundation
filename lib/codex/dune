@@ -1,4 +1,5 @@
 (library
  (name yocaml_codex)
  (public_name yocaml_codex)
+ (modules_without_implementation model)
  (libraries yocaml))

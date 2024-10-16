@@ -1,0 +1,4 @@
+(library
+ (name yocaml_data)
+ (public_name yocaml_data)
+ (libraries yocaml))
